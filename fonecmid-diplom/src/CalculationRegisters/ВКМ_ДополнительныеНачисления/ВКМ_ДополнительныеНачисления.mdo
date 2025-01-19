@@ -12,7 +12,7 @@
   <name>ВКМ_ДополнительныеНачисления</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ дополнительные начисления</value>
+    <value>Дополнительные начисления</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <periodicity>Month</periodicity>

@@ -11,7 +11,7 @@
   <name>ВКМ_ЗапланированныеОтпуска</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ запланированные отпуска</value>
+    <value>Запланированные отпуска</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <dataLockControlMode>Managed</dataLockControlMode>

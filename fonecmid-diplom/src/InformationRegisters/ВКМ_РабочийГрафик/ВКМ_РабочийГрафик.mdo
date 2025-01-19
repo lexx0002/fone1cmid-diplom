@@ -12,7 +12,7 @@
   <name>ВКМ_РабочийГрафик</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ рабочий график</value>
+    <value>Рабочий график</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <editType>InDialog</editType>

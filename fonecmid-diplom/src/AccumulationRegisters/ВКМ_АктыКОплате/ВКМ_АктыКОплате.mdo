@@ -11,7 +11,7 @@
   <name>ВКМ_АктыКОплате</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ акты к оплате</value>
+    <value>Акты к оплате</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <registerType>Turnovers</registerType>

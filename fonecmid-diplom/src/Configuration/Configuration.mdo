@@ -627,6 +627,13 @@
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</roles>
   <roles>Role.ВКМ_ОбработкаМассовоеСозданиеДокументовРеализации</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеНачислениеЗарплаты</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</roles>
+  <roles>Role.ВКМ_ПросмотрОтчетаВыработкаСпециалистов</roles>
+  <roles>Role.ВКМ_ПросмотрАнализВыставленныхАктов</roles>
+  <roles>Role.ВКМ_ПросмотрРасчетыССотрудниками</roles>
+  <roles>Role.ВКМ_ПросмотрРасходЗапланированныхОтпусков</roles>
+  <roles>Role.ВКМ_ТелеграмБот</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1235,6 +1242,7 @@
   <documents>Document.ВКМ_НачисленияЗарплаты</documents>
   <documents>Document.ВКМ_НачислениеФиксированнойПремии</documents>
   <documents>Document.ВКМ_ГрафикОтпусков</documents>
+  <documents>Document.ВКМ_ВыплатаЗарплаты</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОтображенияМеток</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>

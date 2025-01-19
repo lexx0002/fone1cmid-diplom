@@ -3,21 +3,15 @@
   <name>ВКМ_ДобавленныеОбъекты</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ добавленные объекты</value>
+    <value>Добавленные объекты</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
-  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
-  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>ScheduledJob.ВКМ_ОтправкаУведомлений</content>
-  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
-  <content>Document.ВКМ_НачисленияЗарплаты</content>
-  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
   <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
   <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
   <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
@@ -29,5 +23,11 @@
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
   <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
   <content>CalculationRegister.ВКМ_Удержания</content>
-  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>AccumulationRegister.ВКМ_ЗапланированныеОтпуска</content>
+  <content>AccumulationRegister.ВКМ_АктыКОплате</content>
+  <subsystems>Документы</subsystems>
+  <subsystems>Справочники</subsystems>
+  <subsystems>Отчеты</subsystems>
+  <subsystems>Обработки</subsystems>
+  <subsystems>Сервис</subsystems>
 </mdclass:Subsystem>

@@ -3,7 +3,7 @@
   <name>ВКМ_ОтправкаУведомлений</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ отправка уведомлений</value>
+    <value>Отправка уведомлений</value>
   </synonym>
   <methodName>CommonModule.ВКМ_Телеграм.ВКМ_ОтправкаУведомлений</methodName>
   <use>true</use>

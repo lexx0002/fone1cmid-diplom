@@ -11,7 +11,7 @@
   <name>ВКМ_ВзаиморасчетыССотрудниками</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ взаиморасчеты с сотрудниками</value>
+    <value>Взаиморасчеты с сотрудниками</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <dataLockControlMode>Managed</dataLockControlMode>
