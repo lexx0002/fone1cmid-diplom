@@ -375,6 +375,28 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.ДоговорыКонтрагентов</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организации</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.Сервис</name>
 		<right>
 			<name>View</name>
