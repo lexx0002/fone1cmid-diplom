@@ -1243,7 +1243,6 @@
   <documents>Document.ВКМ_НачислениеФиксированнойПремии</documents>
   <documents>Document.ВКМ_ГрафикОтпусков</documents>
   <documents>Document.ВКМ_ВыплатаЗарплаты</documents>
-  <documents>Document.ТестКоммита</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОтображенияМеток</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
