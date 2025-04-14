@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46bbb557-d8f3-4c2c-85b7-4d35f2cbea50">
+  <producedTypes>
+    <objectType typeId="4cdd0aae-cb0f-4575-a37a-2fa415f8d2ad" valueTypeId="ab75d944-12b9-4454-96b0-9a586bb11ae5"/>
+    <refType typeId="92f708a7-20a0-4471-924f-ea4b03dcac53" valueTypeId="bb51c58f-2ed8-4635-8cda-e1bbc4b24892"/>
+    <selectionType typeId="d481900c-d6cb-4436-a627-67068b001f11" valueTypeId="f3adb170-bfa8-45e2-a06c-81be403d7817"/>
+    <listType typeId="17ddd228-1e17-4c61-b5c5-38408185128a" valueTypeId="3c60f494-39f1-4f3a-823e-faddf6f621a7"/>
+    <managerType typeId="24a3fd22-61e9-490f-a78d-f5dcc99e4378" valueTypeId="cfa4fe09-e390-49e1-bb5d-574edf37c453"/>
+  </producedTypes>
+  <name>ТестКоммита</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест коммита</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ТестКоммита.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
