@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9ac22fb9-b517-4d29-acdb-d0eee0520ced">
+  <name>ВКМ_ДобавлениеИзменениеОбслуживаниеКлиентаМенеджер</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ добавление изменение обслуживание клиента менеджер</value>
+  </synonym>
+</mdclass:Role>
